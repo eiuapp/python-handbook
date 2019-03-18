@@ -12,6 +12,7 @@
 
 ## mysql
 * [连接mysql](docs/python-mysql.md)
+* [sqlalchemy](docs/sqlalchemy.md)
 
 ## 常见问题
 
