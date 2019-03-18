@@ -14,7 +14,7 @@
 
 ## 常见问题
 
-<!-- * [时间不一致](docs/faq/ntpdate.md) -->
+* [连接mysql报MySQLdb错误](docs/mysql-no-module-named-MySQLdb.md)
 
 ## 未来
 
