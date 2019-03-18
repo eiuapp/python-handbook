@@ -10,7 +10,8 @@
 * [pyenv安装3.7.2](docs/pyenv-install-372.md)
 
 
-
+## mysql
+* [连接mysql](docs/python-mysql.md)
 
 ## 常见问题
 
