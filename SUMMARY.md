@@ -17,6 +17,7 @@
 ## 常见问题
 
 * [连接mysql报MySQLdb错误](docs/mysql-no-module-named-MySQLdb.md)
+* [查看python安装位置](docs/python-sys-executable.md)
 
 ## 未来
 
